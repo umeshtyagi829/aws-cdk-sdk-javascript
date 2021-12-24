@@ -1,4 +1,4 @@
-# aws-cdk-sdk-javascript
+# Fetching all running ec2 instances and save in the csv file then upload it in s3 bucket.
 
 ### Create new directory and Change directory
 
